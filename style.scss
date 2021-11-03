@@ -1,0 +1,13 @@
+*,
+*::before,
+*:active{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+html{
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    display: block;
+    max-width: 100%;
+}
